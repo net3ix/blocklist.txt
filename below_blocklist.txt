@@ -1,4 +1,0 @@
-0.0.0.0 google.com 
-google.com
-ads.google
-google.ads
